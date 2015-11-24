@@ -1,0 +1,2 @@
+# edx-default-theme
+theme
